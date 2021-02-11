@@ -3,8 +3,8 @@ import exercise
 
 def test_case(capsys):
   
-    input_values = [] # enter inputs to test
-    result = 'Hello, world!\n' # enter output to test
+    input_values = []
+    result = 'Hello, world!\n'
 
     exercise.input = lambda prompt: input_values.pop(0)
   
