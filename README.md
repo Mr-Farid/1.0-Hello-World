@@ -1,4 +1,4 @@
-# Exercise x.x
+# Exercise 1.0
 ## Instructions
 
 Go to the [exercise file](exercise.py) and complete the question below.
