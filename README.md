@@ -3,19 +3,18 @@
 
 Go to the [exercise file](exercise.py) and complete the question below.
 
-Create a program that...
-## Specifications
-The input will be...
+Create a program that prints:
+Hello, world!
 
-Make sure the output is exactly what is described! The output must be...
+## Specifications
+There won't be any inputs
+
+Make sure the output is exactly what is described! The output must be Hello, world!
 ## Examples
-Sample Input:
-```Python
-stuff
-```
+
 Sample Output:
 ```Python
-stuff
+Hello, world!
 ```
 ## Run Test
 Ensure your program passes all the tests. 
