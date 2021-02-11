@@ -4,10 +4,7 @@ def main():
     # write your code below this line
     # make sure its indented like the sample code below
     # replace the sample addition algorithm below 
-    x = int(input(''))
-    y = int(input(''))
-    sum = x + y
-    print(sum)
+    print("Hi there, you haven't replaced me yet!")
 
 
 #########################################################################
